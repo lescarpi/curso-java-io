@@ -1,0 +1,2 @@
+br/com/alura/java/io/teste/TesteLeitura.java
+ br.com.alura.java.io.teste.TesteLeitura
