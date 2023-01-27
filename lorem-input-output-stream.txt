@@ -1,0 +1,2 @@
+estou escrevendo
+com output e input stream

@@ -10,7 +10,7 @@ public class TesteCopiarArquivo {
         Reader isr = new InputStreamReader(fis);
         BufferedReader br = new BufferedReader(isr);
 
-        OutputStream fos = new FileOutputStream("lorem2.txt");
+        OutputStream fos = new FileOutputStream("lorem-input-output-stream.txt");
         OutputStreamWriter osw = new OutputStreamWriter(fos);
         BufferedWriter bw = new BufferedWriter(osw);
 
